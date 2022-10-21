@@ -1,6 +1,6 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
+name: Game Feature Request
+about: 'Do you have a suggestion for Verucavia: New Age?'
 title: ''
 labels: ''
 assignees: ''
